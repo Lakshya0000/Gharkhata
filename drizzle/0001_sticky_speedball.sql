@@ -1,0 +1,1 @@
+ALTER TABLE `milk_entries` ADD `shift` text DEFAULT 'Morning' NOT NULL;
